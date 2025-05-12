@@ -1,4 +1,4 @@
-name: main
+name: RetinalArchetype
 channels:
   - defaults
   - pytorch

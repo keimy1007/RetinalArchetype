@@ -4,7 +4,9 @@
 
 ## Overview
 
-This repository provides an implementation of the Latent Retinal Archetype framework, which identifies characteristic patterns (archetypes) in high-dimensional retinal imaging data. By embedding retinal measurements into a latent space and decomposing them into a small set of archetypal components, this method enables:
+This repository provides an implementation of the Latent Retinal Archetype framework, which identifies characteristic patterns (archetypes) in high-dimensional retinal imaging data. 
+
+By embedding retinal measurements into a latent space and decomposing them into a small set of archetypal components, this method enables:
 
 ## Installation
 
@@ -12,8 +14,7 @@ This repository provides an implementation of the Latent Retinal Archetype frame
 git clone https://github.com/keimy1007/RetinalArchetype.git
 cd RetinalArchetype
 conda env create -f environment.yml
-conda activate main
-pip install -r requirements.txt
+conda activate RetinalArchetype
 ```
 
 ## Usage
@@ -31,3 +32,4 @@ https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_Harvard_Glaucoma_Detec
 
 ## Author
 Kei Sano (@keimy1007)
+KeimyInJapan
