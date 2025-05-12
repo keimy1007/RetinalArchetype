@@ -18,6 +18,12 @@ conda activate RetinalArchetype
 ```
 
 ## Usage
+Once you have obtained the Harvard GDP datasets, process both the .npy and .csv files using preprocess_harvard_GDP.ipynb. 
+This will produce datasets/data_all.csv.
+
+As an example of the output, a dummy file named datasets/data_all_sample.csv has been uploaded.
+
+The run_VAE_AA.ipynb notebook is configured to run using datasets/data_all.csv as its input.
 
 
 ## Reference
