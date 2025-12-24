@@ -1,4 +1,4 @@
-# Latent Retinal Archetype
+# RET-ART (Retinal Archetype)
 
 ![Retinal Archetypes](images/RetinalArchetypes.png)
 
